@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Blocking
+  - Actors
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 3093018853
+    locked: 0
+  - name: Entities
+    uniqueID: 271674707
+    locked: 0
+  - name: Overplayer
+    uniqueID: 3775352535
     locked: 0
