@@ -21,4 +21,8 @@ public class GameManager : MonoBehaviour
     //References
     public Player player;
 
+    //Values
+    public int orangePoints;
+    public int bluePoints;
+
 }
