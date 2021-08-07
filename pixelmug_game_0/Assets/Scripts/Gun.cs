@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Gun : MonoBehaviour
 {
-    /* Statistiche
+    //TODO: non puo essere fatto con una classe che deriva da MonoBehaviour, possiamo fare degli scriptableObj che poi verrano letti dalla singola arma posseduta
+    /*  
+    Statistiche
     -proiettili tot
     -firerate
     -reloadtime

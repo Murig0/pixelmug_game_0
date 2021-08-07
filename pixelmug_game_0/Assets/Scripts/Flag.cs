@@ -6,7 +6,6 @@ public class Flag : MonoBehaviour
 {
     //Questo script è praticamente tutto un placeholder però bo era pe fare
 
-    public GameObject me;
     public SpriteRenderer spriteRenderer;
     public Sprite myNewSprite;
 
@@ -23,7 +22,7 @@ public class Flag : MonoBehaviour
         }
         else
         {
-            Destroy(me);
+            Destroy(this.gameObject);
             spriteRenderer.sprite = myNewSprite;
         }
     }
