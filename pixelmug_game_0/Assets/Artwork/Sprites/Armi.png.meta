@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 05db55cdb772cbb4bb9b1820181ee423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6486218356528335958
+    second: Armi_0
+  - first:
+      213: 811527829893387157
+    second: Armi_1
+  - first:
+      213: -3264579278301881093
+    second: Armi_2
+  - first:
+      213: 4782607996173717520
+    second: Armi_3
+  - first:
+      213: -8873415428672751563
+    second: Armi_4
+  - first:
+      213: -1661393577367027289
+    second: Armi_5
+  - first:
+      213: 5733936104018303390
+    second: Armi_6
+  - first:
+      213: 3778100778461774567
+    second: Armi_7
+  - first:
+      213: -5041570364633404123
+    second: Armi_8
+  - first:
+      213: -9136056262980625954
+    second: Armi_9
+  - first:
+      213: -3965463680092409748
+    second: Armi_10
+  - first:
+      213: -4101832993049640983
+    second: Armi_11
+  - first:
+      213: -6771915259572503734
+    second: Armi_12
+  - first:
+      213: -959173863457226474
+    second: Armi_13
+  - first:
+      213: 8317641535001822101
+    second: Armi_14
+  - first:
+      213: 6276261082504445414
+    second: Armi_15
+  - first:
+      213: 2545546102271665169
+    second: Armi_16
+  - first:
+      213: 6359729650007682418
+    second: Armi_17
+  - first:
+      213: -5101199746804869354
+    second: Armi_18
+  - first:
+      213: 5883799598104035479
+    second: Armi_19
+  - first:
+      213: 2647761887744956599
+    second: Armi_20
+  - first:
+      213: 7854265356101271841
+    second: Armi_21
+  - first:
+      213: -6425127008014001400
+    second: Armi_22
+  - first:
+      213: -6275010987244682910
+    second: Armi_23
+  - first:
+      213: 1870602194658108533
+    second: Armi_24
+  - first:
+      213: 2802213131076590205
+    second: Armi_25
+  - first:
+      213: -733778814442692339
+    second: Armi_26
+  - first:
+      213: -8930061830212191621
+    second: Armi_27
+  - first:
+      213: -7959356001758856156
+    second: Armi_28
+  - first:
+      213: -5360021698930291687
+    second: Armi_29
+  - first:
+      213: 7603065864337815930
+    second: Armi_30
+  - first:
+      213: 7981416701518722640
+    second: Armi_31
+  - first:
+      213: 7637907753163642416
+    second: Armi_32
+  - first:
+      213: 2952388556896654603
+    second: Armi_33
+  - first:
+      213: 4885883713228911188
+    second: Armi_34
+  - first:
+      213: 4991372182053419577
+    second: Armi_35
+  - first:
+      213: 4156899890632990213
+    second: Armi_36
+  - first:
+      213: 4761524601444353875
+    second: Armi_37
+  - first:
+      213: -2655194396562958244
+    second: Armi_38
+  - first:
+      213: -6182280522155943390
+    second: Armi_39
+  - first:
+      213: -2532667355767468577
+    second: Armi_40
+  - first:
+      213: 6193728824227084463
+    second: Armi_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3b28b25c25cf5a0800000000000000
+      internalID: -6486218356528335958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593932af240234b00800000000000000
+      internalID: 811527829893387157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc17bf5172e1b2d0800000000000000
+      internalID: -3264579278301881093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01090e712ac3f5240800000000000000
+      internalID: 4782607996173717520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5387d755eab4bd480800000000000000
+      internalID: -8873415428672751563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a14ce4085b81f8e0800000000000000
+      internalID: -1661393577367027289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 489
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e995cc4c188039f40800000000000000
+      internalID: 5733936104018303390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e247d904a28e6430800000000000000
+      internalID: 3778100778461774567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da3e9f67eb80ab0800000000000000
+      internalID: -5041570364633404123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed99e05db35363180800000000000000
+      internalID: -9136056262980625954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f06afac7d7f8c0800000000000000
+      internalID: -3965463680092409748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7c4110ac5317c0800000000000000
+      internalID: -4101832993049640983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b322853f25502a0800000000000000
+      internalID: -6771915259572503734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 406
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6110bcef37450b2f0800000000000000
+      internalID: -959173863457226474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59381d648e23e6370800000000000000
+      internalID: 8317641535001822101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed39449332c91750800000000000000
+      internalID: 6276261082504445414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114684171b8935320800000000000000
+      internalID: 2545546102271665169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2a30eb6c424850800000000000000
+      internalID: 6359729650007682418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617126b8bd5e439b0800000000000000
+      internalID: -5101199746804869354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c39e8f8477a150800000000000000
+      internalID: 5883799598104035479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 323
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b81bd0986dbeb420800000000000000
+      internalID: 2647761887744956599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c21a4ab4fffc60800000000000000
+      internalID: 7854265356101271841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9e8a270d55d6a0800000000000000
+      internalID: -6425127008014001400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618b97e0ceaae8a0800000000000000
+      internalID: -6275010987244682910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574a9a009c6b5f910800000000000000
+      internalID: 1870602194658108533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a51c6fef573e620800000000000000
+      internalID: 2802213131076590205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01af655e0811d5f0800000000000000
+      internalID: -733778814442692339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 240
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7de3341c021480800000000000000
+      internalID: -8930061830212191621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3a4a03efaa8190800000000000000
+      internalID: -7959356001758856156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ccfd6d9a06d95b0800000000000000
+      internalID: -5360021698930291687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f0cfee14838960800000000000000
+      internalID: 7603065864337815930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b462e330b3ce60800000000000000
+      internalID: 7981416701518722640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036558652ac4ff960800000000000000
+      internalID: 7637907753163642416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d0c400cdf8f820800000000000000
+      internalID: 2952388556896654603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 157
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45230e4c9552ec340800000000000000
+      internalID: 4885883713228911188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7f0ddd8ae44540800000000000000
+      internalID: 4991372182053419577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e1a042d6640b930800000000000000
+      internalID: 4156899890632990213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cf5ab565541240800000000000000
+      internalID: 4761524601444353875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d14f93cad62bd0800000000000000
+      internalID: -2655194396562958244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a1417ce90243aa0800000000000000
+      internalID: -6182280522155943390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd804565782adcd0800000000000000
+      internalID: -2532667355767468577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armi_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 74
+        width: 144
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83723cc8b84f550800000000000000
+      internalID: 6193728824227084463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

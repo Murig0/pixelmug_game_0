@@ -5,31 +5,52 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public CharacterController2D controller;
-    public Animator animator;
+    private Animator animator;
+    private Rigidbody2D rBody;
 
     public float moveSpeed = 5.0f;
-
+    public Vector2 jumpForce;
     private float hor;
-    private bool canJump;
+    private bool canJump; //deprecated
 
     void Start()
     {
         animator = GetComponent<Animator>();
+        rBody = GetComponent<Rigidbody2D>();
     }
 
     void Update()
     {
         hor = Input.GetAxisRaw("Horizontal") * moveSpeed;
 
-        if(Input.GetButtonDown("Jump")) canJump = true;
+        transform.position += new Vector3(hor * Time.deltaTime, 0, 0);
 
-        if(hor != 0) animator.SetBool("moving", true); else animator.SetBool("moving", false);
+        if (Input.GetButtonDown("Jump"))
+        {
+            rBody.AddForce(jumpForce);
+        }
+
+        //Animazioni
+        if (hor != 0)
+        {
+            animator.SetBool("moving", true);
+        }
+        else 
+        { 
+            animator.SetBool("moving", false); 
+        }
     }
 
     void FixedUpdate()
     {
-        controller.Move(hor*Time.fixedDeltaTime, false, canJump);
-        canJump = false;
+        //controller.Move(hor*Time.fixedDeltaTime, false, canJump);
+        //canJump = false;
+    }
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        
     }
 }
  
