@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour, ICollidable
 {
     public CharacterController2D controller;
     private Animator animator;
@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
 
         transform.position += new Vector3(hor * Time.deltaTime, 0, 0);
 
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") && canJump)
         {
             rBody.AddForce(jumpForce);
         }
@@ -41,16 +41,14 @@ public class Player : MonoBehaviour
         }
     }
 
-    void FixedUpdate()
+    public void EnterCollidable()
     {
-        //controller.Move(hor*Time.fixedDeltaTime, false, canJump);
-        //canJump = false;
+        canJump = true;
     }
 
-
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void ExitCollidable()
     {
-        
+        canJump = false;
     }
 }
  
